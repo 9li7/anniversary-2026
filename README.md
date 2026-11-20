@@ -1,15 +1,16 @@
 # 九里七开业一周年短片
 
-内部草稿，仓库为私有，尚未对外发布。
+内部草稿。仓库已公开，但影片本身仍是草稿、非对外发布。
 
-## v2（2026-11-19）
+## v5（2026-11-20）
 
-竖版 9:16，约 88 秒。旁白为改定全文，女声配音，浅配乐。
+约 76 秒。画面减负：一镜一事，几乎不用截图；红「1」重绘；象牙版改动画片气质，鞍革版保持印刷海报气质。
 
-- [手机版 720×1280（建议先下这个）](video/9li7-1st-anniversary-video-v2-9x16-phone.mp4)
-- [母版 1080×1920](video/9li7-1st-anniversary-video-v2-9x16.mp4)
-- [分镜拼图](video/9li7-1st-anniversary-video-v2-contact-sheet.jpg)
+- [象牙 · 手机版](https://github.com/9li7/anniversary-2026/releases/download/v5/9li7-1st-anniversary-video-v5-ivory-9x16-phone.mp4)
+- [鞍革 · 手机版](https://github.com/9li7/anniversary-2026/releases/download/v5/9li7-1st-anniversary-video-v5-saddle-9x16-phone.mp4)
 
-也可在 [Releases](https://github.com/9li7/anniversary-2026/releases) 直接下载。
+母版、分镜拼图见 [Release v5](https://github.com/9li7/anniversary-2026/releases/tag/v5)。
 
-这是给内部审看的下一版，不是定稿。
+## 更早版本
+
+见 [Releases](https://github.com/9li7/anniversary-2026/releases)。
